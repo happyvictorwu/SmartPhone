@@ -37,4 +37,7 @@ dependencies {
         exclude group: 'io.reactivex:rxjava'
         exclude group: 'com.squareup.okio'
     }
+
+    //CircleImageView
+    compile 'de.hdodenhof:circleimageview:2.1.0'
 }

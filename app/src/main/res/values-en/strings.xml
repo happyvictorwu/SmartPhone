@@ -28,4 +28,6 @@
     <string name="reset_successfully">重置成功</string>
     <string name="reset_failed">重置失败</string>
     <string name="text_now_login">正在载入</string>
+    <string name="text_editor_success">修改成功</string>
+    <string name="text_editor_failure">修改失败</string>
 </resources>
