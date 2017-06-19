@@ -32,4 +32,5 @@
     <string name="text_email_send_no">邮箱发送失败</string>
     <string name="reset_successfully">重置成功</string>
     <string name="reset_failed">重置失败</string>
+    <string name="text_now_login">正在载入</string>
 </resources>
