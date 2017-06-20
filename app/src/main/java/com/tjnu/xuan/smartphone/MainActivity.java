@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private void initData() {
         mTitle = new ArrayList<>();
-        boolean add = mTitle.add(getString(R.string.text_butler_service));
+        mTitle.add(getString(R.string.text_butler_service));
         mTitle.add(getString(R.string.text_wechat));
         mTitle.add(getString(R.string.text_express_query));
         mTitle.add(getString(R.string.text_user_info));
