@@ -19,12 +19,7 @@ android {
     }
 }
 
-//添加本地仓库
-repositories {
-    flatDir {
-        dirs 'libs'
-    }
-}
+
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
@@ -58,6 +53,5 @@ dependencies {
     //Picasso
     compile 'com.squareup.picasso:picasso:2.5.2'
 
-    //百度地图
-    compile files('libs/BaiduLBS_Android.jar')
+
 }

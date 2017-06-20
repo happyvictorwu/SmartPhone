@@ -3,7 +3,7 @@
     <string name="text_butler_service">机器人翻译聊天</string>
     <string name="text_wechat">微信文章</string>
     <string name="text_user_info">个人中心</string>
-    <string name="text_setting">设置</string>
+    <string name="text_setting">关于我们</string>
     <string name="text_keep_password">记住密码</string>
     <string name="text_forget_password">忘记密码</string>
     <string name="text_user_name">用户名</string>
@@ -38,4 +38,7 @@
     <string name="text_belonging_query">归属地查询</string>
     <string name="text_more_length">输入长度超出限制</string>
     <string name="text_hello_tts">你好</string>
+    <string name="text_setting_title_1">我的位置</string>
+    <string name="text_setting_content_1">时刻掌握自身位置</string>
+    <string name="text_my_location">我的位置</string>
 </resources>
