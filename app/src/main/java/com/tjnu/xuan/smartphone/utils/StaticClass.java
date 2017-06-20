@@ -20,10 +20,10 @@ public class StaticClass {
     public static final String BMOB_APP_ID = "df64314f3baccfd256e986c4b62a4554";
 
     //快递Key
-    public static final String COURIER_KEY = "1af43b4fd1c9ecf97493233f6769b749";
+    public static final String COURIER_KEY = "dbb946d4d794424ec2bae6e00c803b06";
 
     //归属地Key
-    public static final String PHONE_KEY = "22a6ba14995ce26dd0002216be51dabb";
+    public static final String PHONE_KEY = "97598e42a9bb2c3e0143c8c94f9269fa";
 
     //问答机器人key
     public static final String CHAT_LIST_KEY = "7a48539921338ef90866922b21e25f6d";

@@ -35,4 +35,10 @@
     <string name="text_now_login">正在载入</string>
     <string name="text_editor_success">修改成功</string>
     <string name="text_editor_failure">修改失败</string>
+    <string name="text_courier_company">快递公司</string>
+    <string name="text_courier_number">快递单号</string>
+    <string name="text_express_query">快递查询</string>
+    <string name="text_input_phone">输入电话号码</string>
+    <string name="text_query">查询</string>
+    <string name="text_belonging_query">归属地查询</string>
 </resources>

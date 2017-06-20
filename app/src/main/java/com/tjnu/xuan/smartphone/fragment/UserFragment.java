@@ -19,7 +19,9 @@ import android.widget.Toast;
 
 import com.tjnu.xuan.smartphone.R;
 import com.tjnu.xuan.smartphone.entity.MyUser;
+import com.tjnu.xuan.smartphone.ui.CourierActivity;
 import com.tjnu.xuan.smartphone.ui.LoginActivity;
+import com.tjnu.xuan.smartphone.ui.PhoneActivity;
 import com.tjnu.xuan.smartphone.utils.L;
 import com.tjnu.xuan.smartphone.utils.UtilTools;
 import com.tjnu.xuan.smartphone.view.CustomDialog;
@@ -198,12 +200,12 @@ public class UserFragment extends Fragment implements View.OnClickListener{
             case R.id.btn_picture:
                 toPicture();
                 break;
-//            case R.id.tv_courier:
-//                startActivity(new Intent(getActivity(), CourierActivity.class));
-//                break;
-//            case R.id.tv_phone:
-//                startActivity(new Intent(getActivity(), PhoneActivity.class));
-//                break;
+            case R.id.tv_courier:
+                startActivity(new Intent(getActivity(), CourierActivity.class));
+                break;
+            case R.id.tv_phone:
+                startActivity(new Intent(getActivity(), PhoneActivity.class));
+                break;
         }
     }
 
