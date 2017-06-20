@@ -10,6 +10,15 @@ import com.tjnu.xuan.smartphone.R;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+ *  项目名：  com.tjnu.xuan.smartphone.ui
+ *  包名：    SmartPhone
+ *  文件名:   WebViewActivity
+ *  创建者:   happy_yuxuan
+ *  创建时间:  17/6/20 下午3:54
+ *  描述：    关于我们
+ */
+
 public class SettingActivity extends BaseActivity  {
     private ListView mListView;
     private List<String> mList = new ArrayList<>();

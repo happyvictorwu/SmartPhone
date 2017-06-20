@@ -12,7 +12,7 @@ import cn.bmob.v3.Bmob;
  *  文件名:   BaseApplication
  *  创建者:   happy_yuxuan
  *  创建时间:  17/6/19 下午2:10
- *  描述：    Application
+ *  描述：    Application 所有的Application都是基于这个的加了Bmob的Key
  */
 public class BaseApplication extends Application {
 

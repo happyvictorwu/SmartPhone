@@ -20,6 +20,15 @@ import com.tjnu.xuan.smartphone.ui.SettingActivity;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+ *  项目名：  com.tjnu.xuan.smartphone
+ *  包名：    SmartPhone
+ *  文件名:   CustomDialog
+ *  创建者:   happy_yuxuan
+ *  创建时间:  17/6/19 下午5:05
+ *  描述：    主界面
+ */
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
     //TabLayout

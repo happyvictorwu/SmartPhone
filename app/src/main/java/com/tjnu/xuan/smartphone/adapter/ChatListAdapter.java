@@ -18,7 +18,7 @@ import java.util.List;
  *  文件名:   ChatListAdapter
  *  创建者:   happy_yuxuan
  *  创建时间:  17/6/20 下午3:08
- *  描述：    对话adapter
+ *  描述：    机器人对话adapter
  */
 public class ChatListAdapter extends BaseAdapter {
 

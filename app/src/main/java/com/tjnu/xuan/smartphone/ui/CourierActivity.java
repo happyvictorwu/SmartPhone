@@ -30,7 +30,7 @@ import java.util.List;
  *  文件名:   CourierActivity
  *  创建者:   happy_yuxuan
  *  创建时间:  17/6/19 下午5:54
- *  描述：    useto
+ *  描述：    快递查询
  */
 public class CourierActivity extends BaseActivity implements View.OnClickListener {
 

@@ -6,7 +6,7 @@ package com.tjnu.xuan.smartphone.utils;
  *  文件名:   StaticClass
  *  创建者:   happy_yuxuan
  *  创建时间:  17/6/19 下午2:21
- *  描述：    useto
+ *  描述：    静态变量存放
  */
 public class StaticClass {
 

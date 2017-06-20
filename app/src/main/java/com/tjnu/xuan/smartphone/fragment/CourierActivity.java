@@ -33,7 +33,7 @@ import java.util.List;
  *  文件名:   CourierActivity
  *  创建者:   happy_yuxuan
  *  创建时间:  17/6/20 下午5:29
- *  描述：    useto
+ *  描述：    快递Fragment(名字错了，做完了才发现，改比较麻烦)
  */
 public class CourierActivity extends Fragment implements View.OnClickListener{
     private EditText et_name;

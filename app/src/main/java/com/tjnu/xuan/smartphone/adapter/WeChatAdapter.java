@@ -23,7 +23,7 @@ import java.util.List;
  *  文件名:   WeChatAdapter
  *  创建者:   happy_yuxuan
  *  创建时间:  17/6/20 下午3:49
- *  描述：    微信适配器
+ *  描述：    微信新闻适配器
  */
 public class WeChatAdapter extends BaseAdapter {
 
