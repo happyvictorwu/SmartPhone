@@ -46,4 +46,8 @@
     <string name="text_setting_title_1">我的位置</string>
     <string name="text_setting_content_1">时刻掌握自身位置</string>
     <string name="text_my_location">我的位置</string>
+    <string name="text_website_address">https://github.com/happyyuxuan?tab=repositories</string>
+    <string name="text_class">1401计算机一班</string>
+    <string name="text_app_name">吴宇轩 武昕田</string>
+    <string name="text_person">个人主页</string>
 </resources>
