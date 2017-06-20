@@ -12,6 +12,7 @@ import android.util.Log;
 import android.view.View;
 
 import com.tjnu.xuan.smartphone.fragment.ButlerFragment;
+import com.tjnu.xuan.smartphone.fragment.CourierActivity;
 import com.tjnu.xuan.smartphone.fragment.UserFragment;
 import com.tjnu.xuan.smartphone.fragment.WechatFragment;
 import com.tjnu.xuan.smartphone.ui.SettingActivity;
@@ -48,11 +49,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         mTitle = new ArrayList<>();
         boolean add = mTitle.add(getString(R.string.text_butler_service));
         mTitle.add(getString(R.string.text_wechat));
+        mTitle.add(getString(R.string.text_express_query));
         mTitle.add(getString(R.string.text_user_info));
 
         mFragment = new ArrayList<>();
         mFragment.add(new ButlerFragment());
         mFragment.add(new WechatFragment());
+        mFragment.add(new CourierActivity());
         mFragment.add(new UserFragment());
     }
 
