@@ -42,5 +42,5 @@
     <string name="text_query">查询</string>
     <string name="text_belonging_query">归属地查询</string>
     <string name="text_more_length">输入长度超出限制</string>
-    <string name="text_hello_tts">你好，我是你的助手</string>
+    <string name="text_hello_tts">你好</string>
 </resources>

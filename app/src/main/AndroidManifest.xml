@@ -24,7 +24,8 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ui.LoginActivity">
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -38,7 +39,7 @@
             android:label="@string/text_setting" />
 
         <!--主页-->
-        <activity android:name=".MainActivity" />
+        <activity android:name=".ui.LoginActivity" />
 
 
         <!--注册-->
@@ -60,6 +61,9 @@
         <activity
             android:name=".ui.PhoneActivity"
             android:label="@string/text_belonging_query" />
+
+        <!--新闻详情-->
+        <activity android:name=".ui.WebViewActivity" />
 
     </application>
 
