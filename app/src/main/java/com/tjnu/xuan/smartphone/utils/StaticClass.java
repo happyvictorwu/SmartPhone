@@ -10,11 +10,6 @@ package com.tjnu.xuan.smartphone.utils;
  */
 public class StaticClass {
 
-    //闪屏业延时
-    public static final int HANDLER_SPLASH = 1001;
-    //判断程序是否是第一次运行
-    public static final String SHARE_IS_FIRST = "isFirst";
-
 
     //Bmob key
     public static final String BMOB_APP_ID = "df64314f3baccfd256e986c4b62a4554";
@@ -31,14 +26,5 @@ public class StaticClass {
     //微信精选key
     public static final String WECHAT_KEY = "78f723dccf85aea324a3cf0daac97f35";
 
-
-    //语音Key
-    public static final String VOICE_KEY = "583081c6";
-
-    //短信Action
-    public static final String SMS_ACTION = "android.provider.Telephony.SMS_RECEIVED";
-
-    //版本更新
-    public static final String CHECK_UPDATE_URL = "http://192.168.1.23:8080/liuguilin/config.json";
 
 }
