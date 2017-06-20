@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         //预加载
         mViewPager.setOffscreenPageLimit(mFragment.size());
 
+        fab_setting.setVisibility(View.GONE);
         //mViewPager滑动监听
         mViewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override
